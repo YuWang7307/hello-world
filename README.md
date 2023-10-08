@@ -6,3 +6,8 @@ This toturial focuses mainly on Git and using GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
+
+add new line
+
+test
+
